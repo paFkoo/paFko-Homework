@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.csprojResolveAssemblyReference.cache

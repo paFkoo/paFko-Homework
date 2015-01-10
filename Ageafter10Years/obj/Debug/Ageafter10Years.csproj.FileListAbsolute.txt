@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Ageafter10Years\bin\Debug\Ageafter10Years.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Ageafter10Years\bin\Debug\Ageafter10Years.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Ageafter10Years\bin\Debug\Ageafter10Years.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Ageafter10Years\obj\Debug\Ageafter10Years.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Ageafter10Years\obj\Debug\Ageafter10Years.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Ageafter10Years\obj\Debug\Ageafter10Years.csprojResolveAssemblyReference.cache

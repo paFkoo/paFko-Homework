@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Print Numbers\bin\Debug\Print Numbers.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Print Numbers\bin\Debug\Print Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Print Numbers\bin\Debug\Print Numbers.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Print Numbers\obj\Debug\Print Numbers.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\Print Numbers\obj\Debug\Print Numbers.pdb

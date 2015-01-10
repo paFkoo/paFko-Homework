@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\SquareRoot\obj\Debug\SquareRoot.pdb

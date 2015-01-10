@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

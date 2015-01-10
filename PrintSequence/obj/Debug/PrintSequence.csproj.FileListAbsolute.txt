@@ -1,0 +1,6 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution2\PrintSequence\obj\Debug\PrintSequence.csprojResolveAssemblyReference.cache
