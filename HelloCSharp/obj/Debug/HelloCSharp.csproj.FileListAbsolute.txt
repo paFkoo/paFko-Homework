@@ -1,0 +1,5 @@
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution1\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution1\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution1\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution1\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\paFko\Desktop\Telerik\C# part 1\Solution1\HelloCSharp\obj\Debug\HelloCSharp.pdb
